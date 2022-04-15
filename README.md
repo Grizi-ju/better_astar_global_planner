@@ -1,6 +1,8 @@
 # better_astar_global_planner
 The better A* global planner plugin in ROS
 
+Tutorials : https://www.bilibili.com/video/BV1U44y137dc?spm_id_from=333.999.0.0
+
 **Ubuntu 18.04**
 
 **ros melodic**
